@@ -20,9 +20,9 @@ require (
 	github.com/google/go-cmp v0.2.0
 	github.com/influxdata/tdigest v0.0.0-20180711151920-a7d76c6f093a
 	github.com/mailru/easyjson v0.7.0
-	github.com/miekg/dns v1.1.17
+	github.com/miekg/dns v1.1.25
 	github.com/streadway/quantile v0.0.0-20150917103942-b0c588724d25
 	github.com/tsenart/go-tsz v0.0.0-20180814232043-cdeb9e1e981e
-	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297
+	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
 	pgregory.net/rapid v0.3.3
 )
